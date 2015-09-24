@@ -4,6 +4,15 @@
 * Website: [jetconf.by](http://jetconf.by/)
 
 ## Program
+* [Java byte code in practice by Rafael Winterhalter](#java-byte-code-in-practice-by-rafael-winterhalter)
+* [An introduction to JVM performance by Rafael Winterhalter](#an-introduction-to-jvm-performance-by-rafael-winterhalter)
+* [Scala performance for those who doubt by Roman Grebennikov](#scala-performance-for-those-who-doubt-by-roman-grebennikov)
+* [Atomics, CAS, and Nonblocking Algorithms by Alexey Fyodorov]("#atomics-cas-and-nonblocking-algorithms-by-alexey-fyodorov)
+* [Domain-specific Hotspot Optimization with Scalan by Alexander Slesarenko](#domain-specific-hotspot-optimization-with-scalan-by-alexander-slesarenko)
+* [Do we need Unsafe in Java? by Andrei Pangin](#do-we-need-unsafe-in-java-by-andrei-pangin)
+* [How "final" is final? by Volker Simonis](#how-final-is-final-by-volker-simonis)
+
+
 ### Java byte code in practice by Rafael Winterhalter
 #### Brief
 ```
